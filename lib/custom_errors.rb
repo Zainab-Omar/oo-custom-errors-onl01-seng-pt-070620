@@ -17,6 +17,7 @@ class Person
       end
     else
       person.partner = self
+    end
   end
 end
 
